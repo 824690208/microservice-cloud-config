@@ -11,7 +11,7 @@
      name: microservice-config-eureka
  eureka:
    instance:
-     hostname: 192.168.10.11  #修改此处
+     hostname: 192.168.10.11 #修改此处
    client:
      registerWithEureka: false
      fetchRegistry: false
@@ -28,7 +28,7 @@
      name: microservice-config-eureka
  eureka:
    instance:
-     hostname: 192.168.10.11  #修改此处
+     hostname: 192.168.10.11 #修改此处
    client:
      registerWithEureka: false
      fetchRegistry: false
